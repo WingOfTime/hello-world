@@ -2,4 +2,5 @@
 just another repository
 
 hello,github,i'm coming!
-have fun！ ^ ^
+have fun！ ^
+print(hello world)!
